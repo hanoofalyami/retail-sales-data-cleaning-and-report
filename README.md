@@ -3,7 +3,7 @@
 
 End-to-end retail sales analysis for **Veec Store**: data cleaning in SQL Server using a bronze/silver/gold (medallion) architecture, and an interactive Power BI dashboard.
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview]https://github.com/hanoofalyami/retail-sales-data-cleaning-and-report/blob/3ece96f85bc0f1e651c9ad19e8aa0f781f1f739f/Retail_Sales_Report_page-0001.jpg
 
 ## Project Overview
 
