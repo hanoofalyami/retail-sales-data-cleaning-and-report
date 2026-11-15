@@ -1,5 +1,4 @@
 # retail-sales-data-cleaning-and-report
-Retail Store Sales: Data Cleaning & Power BI Report
 # Retail Store Sales: Data Cleaning & Power BI Report
 
 End-to-end retail sales analysis for **Veec Store**: data cleaning in SQL Server using a bronze/silver/gold (medallion) architecture, and an interactive Power BI dashboard.
@@ -124,6 +123,10 @@ A dedicated `Date` table (marked as a date table) is used for all time intellige
 3. Run the silver DDL and load script.
 4. Create the gold view.
 5. Open the `.pbix` file and point the data source to your SQL Server instance.
+
+## Acknowledgments
+
+The bronze/silver/gold (medallion) ETL structure and SQL scripting style follow the [SQL Data Warehouse Project](https://github.com/DataWithBaraa/sql-data-warehouse-project) by Baraa Khatib Salkini (Data With Baraa). The dataset, data-quality checks, cleaning logic, and the Power BI dashboard in this repository are my own work.
 
 ## Author
 
