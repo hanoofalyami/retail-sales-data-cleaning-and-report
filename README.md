@@ -130,5 +130,5 @@ The bronze/silver/gold (medallion) ETL structure and SQL scripting style follow 
 
 ## Author
 
-**[Your Name]**
-[LinkedIn](#) | [GitHub](#)
+**Hanoof Alyami**
+(https://www.linkedin.com/in/hanoof-alyami-2515a1255/)(#) | [GitHub](#)
